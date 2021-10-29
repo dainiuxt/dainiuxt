@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dainiuxt&theme=synthwave “Dainius’ Top Languages Card”)
+
 <!--
 **dainiuxt/dainiuxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
