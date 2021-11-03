@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo7332
-Fork on GitHub1435
 <h1 align="center">Hi 👋, I'm Dainius</h1>
 <h3 align="center">I'm learning WebDev and programming for career path change</h3>
 
