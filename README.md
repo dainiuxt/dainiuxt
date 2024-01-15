@@ -7,7 +7,7 @@
 
 - I'm maintaining [KnowledgeBase](https://dainiuxt.github.io/kb/) while i'm learning. Feel free to suggest any additions.
 
-- Also you can subscribe to my currated newsletter [ReHacked](https://rehacked.substack.com), (also [RSS link](http://rehacked.substack.com/feed)).
+- Also you can subscribe to my currated newsletter [ReHacked](https://rehackedhub.com), (also [RSS link](http://rehackedhub.com/rss)).
 
 
 <h4 align="left">Languages and Tools I have used and have some familiarity with:</h3>
